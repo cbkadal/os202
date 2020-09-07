@@ -3,7 +3,8 @@
 
 # Cicak Bin Kadal
 
-* Namaku Cicak Bin Kadal!
+[WEB](https://cbkadal.github.io/os202/)
+[GitHub](https://github.com/cbkadal/os202/)
 
 * [Week 00](W00/)
 * [Week 01](W01/)
@@ -20,4 +21,5 @@
 <img src="cbk.jpg" width="256">
 
 -- CBK.
+
 
