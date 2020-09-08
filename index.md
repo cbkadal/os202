@@ -10,7 +10,7 @@
 
 # Cicak Bin Kadal
 
-* [My Log](mylog.txt)
+* [My Log](TXT/mylog.txt)
 
 <hr>
 
