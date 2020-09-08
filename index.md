@@ -10,6 +10,8 @@
 
 # Cicak Bin Kadal
 
+* [My Log](mylog.txt)
+
 <hr>
 
 * [Week 00](W00/)
