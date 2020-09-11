@@ -1,3 +1,6 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00  10 L00 General Log
 ZCZC W00  60 L01 SCELE related
 ZCZC W00 120 L02 ZOOM
