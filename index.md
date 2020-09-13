@@ -6,12 +6,13 @@
 
 <br>
 
-# Cicak Bin Kadal
+# My name is CBKadal
 
-* [My Log](TXT/mylog.txt)
-
+## [My Log](TXT/mylog.txt)
+<br>
 <hr>
-
+<br>
+## Operating Systems Weekly Top Ten List
 * [Week 00](W00/)
 * [Week 01](W01/)
 * [Week 02](W02/)
