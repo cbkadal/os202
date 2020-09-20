@@ -4,9 +4,18 @@
 ZCZC W00  10 L00 General Log
 ZCZC W00  60 L01 SCELE related
 ZCZC W00 120 L02 ZOOM
-ZCZC W00 600 L99 Other (Nonton YouTube)
+ZCZC W00  20 L03 GitHub related
+ZCZC W00  10 L04 GitHub Pages related
+ZCZC W00  10 L05 GSGS related
+ZCZC W00  10 L06 Reading OSC10
+ZCZC W00   2 L06 Demo related
 ZCZC W01  15 L00 General Log
-ZCZC W01  60 L01 SCELE related
+ZCZC W01  15 L01 SCELE related
 ZCZC W01 120 L02 ZOOM
-ZCZC W01 800 L99 Other (Nonton YouTube)
+ZCZC W01  30 L03 GitHub related
+ZCZC W01  30 L04 GitHub Pages related
+ZCZC W01  30 L05 GSGS related
+ZCZC W01  10 L06 Reading OSC10
+ZCZC W01  20 L06 Demo related
+ZCZC W01 120 L99 TikTok
 
