@@ -6,9 +6,9 @@
 [My Log](TXT/mylog.txt)
 [My Public Key](TXT/mypubkey.txt)
 [My Script](TXT/myscript.sh)
-[My SHA256SUM](TXT/SHA256SUM)
-[My SHA256SUM.asc](TXT/SHA256SUM.asc)
 [My Top Ten Rank List](TXT/myrank.txt)
+[SHA256SUM](TXT/SHA256SUM)
+[SHA256SUM.asc](TXT/SHA256SUM.asc)
 
 <br>
 # My name is CBKadal
