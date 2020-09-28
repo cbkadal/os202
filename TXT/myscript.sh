@@ -1,8 +1,11 @@
 #!/bin/bash
-# Mon Sep 28 21:05:04 WIB 2020
+# Cicak Bin Kadal
+# Mon Sep 28 22:03:27 WIB 2020
 
 FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
 SHA="SHA256SUM"
+
+rm -f $SHA $SHA.asc
 
 echo "sha256sum $FILES > $SHA"
 sha256sum $FILES > $SHA
@@ -18,3 +21,4 @@ gpg --verify $SHA.asc $SHA
 
 exit 0
 
+# Mon Sep 28 21:05:04 WIB 2020
