@@ -4,7 +4,7 @@
 # Tue 29 Sep 2020 11:02:39 AM WIB
 # PALSU BANGET SEKALI UBAH
 
-FILES="mylog.txt mypubkey.txt myrank.txt myscript.sh"
+FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
 rm -f $SHA $SHA.asc
